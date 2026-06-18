@@ -4,4 +4,4 @@
 
 ### brain-even
 
-[Asciinema](https://asciinema.org/connect/46dce96b-6018-414a-9446-29a04e5ddb2a)
+[Asciinema](https://asciinema.org/a/1257663)
